@@ -9,5 +9,3 @@ export default function InfoChip({chipColorName, label}) {
       </div>
     );
   }
-
-  var icon = (area == 1) ? icon1 : (area == 2) ? icon2 : icon0;

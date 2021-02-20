@@ -3,17 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
-    "-": "^0.0.1",
     "@craco/craco": "^6.1.1",
-    "n": "^7.0.1",
-=======
-    "@craco/craco": "^6.1.1",
->>>>>>> 6f0c658187fb169442d0077dcdc9180a26eff1d3
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
-    "react-swipeable-bottom-sheet": "^1.1.2"
+    "react-swipeable-bottom-sheet": "^1.1.2",
+    "tesseract.js": "^2.1.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.3",
