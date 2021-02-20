@@ -12,9 +12,17 @@ Refer to our [presentation](./WeSribe.pptx) for more details about the idea and 
 
 ## Hosting 
 
-The frontend is hosted on gh-pages at https://gaganagarwal77.github.io/WeScribe-Frontend/ and the WeScribe discord bot is deployed on heroku.
+The app is hosted on gh-pages at this [Link](https://gaganagarwal77.github.io/WeScribe-Frontend/).
 
-You can test all it's functionalities by running the backend locally. To run the backend locally please refer to the readme of the linked Backend repo.
+Since the backend is not hosted on cloud , you can run it locally to check the functionalities of Register, Login and Notes Saving.To run the backend locally please refer to the readme of the linked Backend repo.
+
+To see other functionalaties of this application without installing anything you can follow the following steps:
+
+- Head over to this [Link](https://gaganagarwal77.github.io/WeScribe-Frontend/board).
+- This will open up a collaborative editor, you can even share your board's url with your friends to collaborate while watching a live lecture or youtube video.
+- You will find a discord bot widget at bottom right corner of the screen. Clicking on this opens up a discord server in the widget you will find there the link to join the server.
+- Authorize yourself with discord and now you are set. You can use the widget to share your thoughts and ideas and even your notes which will earn you some XP . The Bot will also notify you of your classes based on uploaded timetable :)
+
 
 ## Screenshots
 
