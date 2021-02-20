@@ -35,6 +35,40 @@ To see other functionalaties of this application without installing anything you
 
 ![5](./images/4.png)
 
+- Start with ```!help```
+
 ![6](./images/5.png)
 
-![7](./images/6.png)
+- Share stuff, earn XP and increase your level (With auto role update on your profile) 
+
+![bot1](./images/bot1.png)
+
+![bot2](./images/bot2.png)
+
+- Get Notifications from bot about any special events
+
+![bot3](./images/bot3.png)
+
+![bot10](./images/bot10.png)
+
+- Get personalised XP cards
+
+![bot4](./images/bot4.png)
+
+- Auto assign to a particular batch for notification access
+
+![bot5](./images/bot5.png)
+
+- Control the commands usage access
+
+![bot6](./images/bot6.png)
+
+- Avoid students using special commands repetitively to increase their XP
+
+![bot7](./images/bot7.png)
+
+- Make CRs to put up timetable or events to get auto scheduled notifications (before 15-30 minutes of the event)
+
+![bot8](./images/bot8.png)
+
+![bot9](./images/bot9.png)
