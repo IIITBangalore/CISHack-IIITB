@@ -1,9 +1,0 @@
-[submodule "WeScribe/WeScribe-Frontend"]
-	path = WeScribe/WeScribe-Frontend
-	url = https://github.com/GaganAgarwal77/WeScribe-Frontend.git
-[submodule "WeScribe/WeScribe-Backend"]
-	path = WeScribe/WeScribe-Backend
-	url = https://github.com/divyamagwl/WeScribe-Backend.git
-[submodule "WeScribe/WeScribe-Bot"]
-	path = WeScribe/WeScribe-Bot
-	url = https://github.com/GSri30/WeScribe-Bot.git
